@@ -1,4 +1,32 @@
 # Petstore
+This Pet Store Project in Django created based on python, Django, and mysql Database. The Online Pet Store System is a simple project similar like shopping cart or ecommerce but is only for Pet adoption. Categories wise pet available.It allows users to search and adopt pets online based on category, breed and price.
+
+# Admin Features :
+
+**Dashboard**- For the admin dashboard, you will be able to all the basic access in the whole system. Such as summary of products(Pet), Contact enquiry.
+
+**Manage Pet**- The admin has access to the Pet availability management information system. He can add, update information and delete the pet.
+
+**Manage Categories** - The page where the admin can add, edit and delete categories information.
+
+**Manage User**- The admin can manage the user's account. Admin can add, update and Block user in the system.
+
+**Login and Logout** - By default one of the security features of this system is the secure login and logout system.
+
+# Customer Features :
+
+**Login Page** - Customer enter their website credentials on this page to gain access in order to log in.
+
+**Register Page**- The page where new customer created their login credentials for the website.
+
+**Home Page**- When customer visit the website, this is the system's default page. This page shows the Pets for sale in the store, or by entering a keyword in the search box.
+
+**Pet View Page** - The page on which the product's specific information is shown.
+
+**My Order Page** - The page that lists the customer's orders.
+
+**cash and Credit Card Payments** - This Online Pet Store  Project in Django in Django has a payment method that uses Credit Card Payments, Pay Later and Wallets,etc...
+
 # Login Page
 
 ![Screenshot 2024-10-22 180204](https://github.com/user-attachments/assets/4bc1518f-e0c2-4d08-b0e0-53522dec6365)
