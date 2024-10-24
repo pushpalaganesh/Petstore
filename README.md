@@ -1,10 +1,16 @@
 # Petstore
-**Login Page**
+# Login Page
+
 ![Screenshot 2024-10-22 180204](https://github.com/user-attachments/assets/4bc1518f-e0c2-4d08-b0e0-53522dec6365)
-**Registration Page**
+
+# Registration Page
+
 ![Screenshot 2024-10-22 180246](https://github.com/user-attachments/assets/5f7e9f91-32d7-41e3-a791-1da64706ec47)
-**Index Page**
+
+# Index Page
+
 ![Screenshot 2024-10-22 181928](https://github.com/user-attachments/assets/6fb795bd-9654-4379-9eac-6a95664fc670)
+
 **Product Detail Page**
 ![Screenshot 2024-10-22 181952](https://github.com/user-attachments/assets/188358da-2e44-4e2b-afcd-a4fa43a9233b)
 **Viewcart Page**
